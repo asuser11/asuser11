@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Aman Sharma 👋
+
+🎓 B.Tech CSE (AI & ML) Student  
+💻 AI/ML Enthusiast | Python Developer  
+📊 Interested in Machine Learning & Data Science  
+
+## 🔧 Skills
+- Python, C, C++
+- Machine Learning, Data Analysis
+- NumPy, Pandas, Scikit-learn
+
+## 🚀 Projects
+- House Price Prediction (ML)
+- Customer Segmentation (Clustering)
+- Email Spam Detection (NLP)
+
+## 📫 Contact
+- Email: amanmail999@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aman-sharma-594333263
